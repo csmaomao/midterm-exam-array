@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\bin\Debug\TestExam.exe.config
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\bin\Debug\TestExam.exe
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\bin\Debug\TestExam.pdb
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.exe
+C:\Users\student\Desktop\CK Project\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.pdb
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\bin\Debug\TestExam.exe.config
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\bin\Debug\TestExam.exe
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\bin\Debug\TestExam.pdb
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.csproj.AssemblyReference.cache
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.csproj.CoreCompileInputs.cache
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.exe
+C:\Users\CK\Downloads\M-Lab Exam_Garcia\TestExam\TestExam\obj\Debug\TestExam.pdb
